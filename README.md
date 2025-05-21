@@ -1,5 +1,5 @@
 # Turowa gra na wzór darkest dungeon
-
+https://www.canva.com/design/DAGoGv38Dcc/4TrIa66bkONUzlenWE1xYw/edit?utm_content=DAGoGv38Dcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Cel gry
 Celem gry jest pokonanie wszystkich przeciwników (bandytów) sterując rycerzem. Gracz może atakować, używać mikstur leczących oraz musi przetrwać ataki przeciwników. Gra kończy się zwycięstwem po pokonaniu wszystkich bandytów lub porażką po śmierci rycerza.
 
