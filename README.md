@@ -30,4 +30,10 @@ Celem gry jest pokonanie wszystkich przeciwników (bandytów) sterując rycerzem
 - Dynamiczne wyświetlanie obrażeń (DamageText)
 - Prosty system tury (kolejność ruchów gracza i przeciwników)
 
+
+
+https://github.com/user-attachments/assets/534e0bd5-c75a-4da7-b497-d448fefd8604
+
+
+
 ---
