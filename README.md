@@ -32,8 +32,7 @@ Celem gry jest pokonanie wszystkich przeciwników (bandytów) sterując rycerzem
 
 
 
-https://github.com/user-attachments/assets/534e0bd5-c75a-4da7-b497-d448fefd8604
-
+https://github.com/user-attachments/assets/5ae078ba-2d0b-46dd-8284-88295f43d5d2
 
 
 ---
